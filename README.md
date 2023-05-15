@@ -9,7 +9,7 @@
     <img src="https://skillicons.dev/icons?discord,bots,github,js,lua,ps,&theme=dark">
     <br>
     <br>
-    <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=envisiondev&layout=compact&hide_title=1&card_width=300&theme=dark](https://readme-stats-envisiondev.vercel.app/)">
+    <img src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=envisiondev&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)">
 </p>
 
 ## Development Server
