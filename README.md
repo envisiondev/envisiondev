@@ -15,6 +15,6 @@
 ## Development Server
 <div>
   <a href="https://discord.gg/crossoverarena">
-     <img src="https://discord.com/api/guilds/925526156290175026/widget.png?style=banner3">
+     <img src="[https://discord.com/api/guilds/925526156290175026/widget.png?style=banner3](https://discord.com/api/guilds/1069170861661225020/widget.png?style=banner3)">
   </a>
 </div>
