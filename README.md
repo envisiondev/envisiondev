@@ -16,7 +16,9 @@
   <a href="https://discord.gg/crossoverarena">
      <img src="https://discord.com/api/guilds/1069170861661225020/widget.png?style=banner4">
   </a>
-<a href="https://discord.gg/SUPs6fEDV7">
+</div>
+<div>
+  <a href="https://discord.gg/SUPs6fEDV7">
      <img src="https://discord.com/api/guilds/925526156290175026/widget.png?style=banner4">
   </a>
 </div>
