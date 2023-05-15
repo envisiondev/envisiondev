@@ -9,7 +9,7 @@
     <img src="https://skillicons.dev/icons?i=discord,bots,github,js,lua,ps,&theme=dark">
     <br>
     <br>
-    <img src="https://readme-stats-git-main-envisiondev.vercel.app/api/?username=envisiondev&layout=compact">
+    <img src="https://readme-stats-git-main-envisiondev.vercel.app/api/top-langs/?username=envisiondev&layout=compact">
 </p>
 
 ## Crossover Arena
