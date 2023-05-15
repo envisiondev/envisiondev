@@ -14,6 +14,6 @@
 ## Crossover Arena
 <div>
   <a href="https://discord.gg/crossoverarena">
-     <img src="https://discord.com/api/guilds/1069170861661225020/widget.png?style=banner3">
+     <img src="https://discord.com/api/guilds/1069170861661225020/widget.png?style=banner4">
   </a>
 </div>
