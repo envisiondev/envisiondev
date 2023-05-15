@@ -11,9 +11,6 @@
     <br>
 </p>
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://readme-stats-cyan-ten.vercel.app/api?username=envisiondev&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://readme-stats-cyan-ten.vercel.app/api/top-langs?username=envisiondev&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
-
 ## Crossover Arena
 <div>
   <a href="https://discord.gg/crossoverarena">
