@@ -19,6 +19,6 @@
 </div>
 <div>
   <a href="https://discord.gg/SUPs6fEDV7">
-     <img src="https://discord.com/api/guilds/925526156290175026/widget.png?style=banner4">
+     <img src="https://discord.com/api/guilds/925526156290175026/widget.png?style=banner2">
   </a>
 </div>
