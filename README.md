@@ -26,10 +26,10 @@
 
 ## Servers
 <div>
-  <a href="https://discord.gg/crossoverarena">
+  <a href="https://discord.gg/studiofusion">
      <img src="https://discord.com/api/guilds/1069170861661225020/widget.png?style=banner4">
   </a>
- <a href="https://discord.gg/SUPs6fEDV7">
+ <a href="https://discord.gg/aMy2gPBNyM">
      <img src="https://discord.com/api/guilds/925526156290175026/widget.png?style=banner4">
   </a>
 </div>
