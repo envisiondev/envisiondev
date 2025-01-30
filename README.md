@@ -26,10 +26,10 @@
 
 ## Servers
 <div>
-  <a href="https://discord.gg/studiofusion">
-     <img src="https://discord.com/api/guilds/1069170861661225020/widget.png?style=banner4">
+  <a href="https://discord.gg/uqt8Czpcqy">
+     <img src="https://discord.com/api/guilds/1154636749314732063/widget.png?style=banner4">
   </a>
- <a href="https://discord.gg/aMy2gPBNyM">
-     <img src="https://discord.com/api/guilds/925526156290175026/widget.png?style=banner4">
+ <a href="https://discord.gg/RTxpRDgraU">
+     <img src="https://discord.com/api/guilds/1057848985131417630/widget.png?style=banner4">
   </a>
 </div>
