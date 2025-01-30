@@ -25,9 +25,9 @@
 ## Servers
 <div>
   <a href="https://discord.gg/uqt8Czpcqy">
-     <img src="https://discord.com/api/guilds/1154636749314732063/widget.png?style=banner4" alt="Discord Banner 4"/>
+     <img src="https://discord.com/api/guilds/1154636749314732063/widget.png?style=banner4" />
   </a>
  <a href="https://discord.gg/RTxpRDgraU">
-     <img src="https://discord.com/api/guilds/1057848985131417630/widget.png?style=banner4" alt="Discord Banner 4"/>
+     <img src="https://discord.com/api/guilds/1057848985131417630/widget.png?style=banner4" />
   </a>
 </div>
