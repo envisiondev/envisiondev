@@ -20,8 +20,6 @@
 
 ![Khaled Badran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=envisiondev&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=envisiondev&count_private=true&theme=algolia&border_radius=20)
-
 </div>
 
 ## Servers
