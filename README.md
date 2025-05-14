@@ -1,4 +1,4 @@
-<h1 align="center">hellooo!! 👋 i'm hayden!</h1>
+<h1 align="center">Hello! 👋 I'm Hayden!</h1>
 <p align="center">
   <br>
   <img src="https://lanyard.cnrad.dev/api/478383244186746880">
